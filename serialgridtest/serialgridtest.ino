@@ -1,5 +1,7 @@
 
 // USB stack -> TinyUSB , CPU: 240MHz
+// the majority of this code is copied from https://gist.github.com/kurogedelic/92776d07ce8579e67d3a5f8c62099ca7
+
 //
 #include "pio_usb.h"           // Pico-PIO-USB library
 #include "Adafruit_TinyUSB.h"  // TinyUSB library
